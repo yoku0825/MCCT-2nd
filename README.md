@@ -33,6 +33,9 @@
 
 ## 宣伝
 
+* MySQL Cluster Casual Talks #2 は GMOメディア株式会社 の全面協力を経て開催されています。
+ * http://www.gmo-media.jp
+
 * FacebookでGMO Yoursにチェックインしていただけると会場の中の人が喜ぶそうです。
  * https://www.facebook.com/GmoYours
 
